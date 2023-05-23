@@ -1,0 +1,5 @@
+which datasets to use? difference between xml and json?
+
+aspect extraction (AE, subtask1) sufficient for project?
+
+aspect term and/or aspect category extraction?
