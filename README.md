@@ -1,7 +1,5 @@
 # Aspect Extraction for Aspect-Based Sentiment Analysis
 
-Simple overview of use/purpose.
-
 ## Description
 
 This ML model aims to extract aspect token of given sentences in B-I-O format. It is based on a case-insensitive distilbert model
